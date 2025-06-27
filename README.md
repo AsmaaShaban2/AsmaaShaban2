@@ -8,7 +8,7 @@ I am a final year student at The American University in Cairo, pursuing a B.S. i
 - **Working:** on projects involving Large Language Models (LLMs) for automations, enhancing decision-making processes.
 - **Looking to collaborate:** on open source projects that focus on data science and machine learning.
 
-📫 **Reach Me At:** [asmaa.21535@gmail.com](mailto:asmaa.21535@gmail.com)
+📫 **Reach Me At:** [asmaaelabasy22@gmail.com](mailto:asmaaelabasy22@gmail.com)
 
 
 ## 🔗 Connect with me:
