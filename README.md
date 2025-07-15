@@ -1,12 +1,12 @@
 # Hi there, I'm Asmaa Shaban Elabasy! 👋
 
 🎓 **About Me:**
-I am a final year student at The American University in Cairo, pursuing a B.S. in Mathematics, Statistics, and Data Analysis with a minor in Computer Science. I am deeply passionate about applying statistics and data science to derive meaningful insights from complex datasets.
+I am a recent graduate from The American University in Cairo, where I earned a B.S. in Mathematics, specializing in Statistics and Data Analysis, with a minor in Computer Science. I am passionate about utilizing data science, machine learning, and statistical modeling to derive actionable insights and solve complex problems across various industries.
 
 🌐 **I'm Currently:**
-- **Learning:** Advanced applications of statistical models and data visualization techniques.
-- **Working:** on projects involving Large Language Models (LLMs) for automations, enhancing decision-making processes.
-- **Looking to collaborate:** on open source projects that focus on data science and machine learning.
+- **Learning:** Deepening my knowledge in advanced machine learning techniques, statistical modeling, and data visualization to address real-world problems.
+- **Working:**  Data Science and machine learning projects, including Large Language Models (LLMs) for natural language processing (NLP) and automation, enhancing data-driven decision-making processes.
+- **Looking to collaborate:** on open-source projects and real-world applications in AI, ML, and data science.
 
 📫 **Reach Me At:** [asmaaelabasy22@gmail.com](mailto:asmaaelabasy22@gmail.com)
 
