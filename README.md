@@ -1,4 +1,4 @@
-# Hi there, I'm Asmaa Shaban Elabasy! 👋
+# Hi there, I'm Asmaa Elabasy!
 
 🎓 **About Me:**
 I am a recent graduate from The American University in Cairo, where I earned a B.S. in Mathematics, specializing in Statistics and Data Analysis, with a minor in Computer Science. I am passionate about utilizing data science, machine learning, and statistical modeling to derive actionable insights and solve complex problems across various industries.
